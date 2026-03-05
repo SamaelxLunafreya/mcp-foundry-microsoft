@@ -20,7 +20,6 @@ MCP Server for Azure AI Foundry (experimental) has moved to the cloud, now as Fo
 The rest of this repo (including codebase) explains the now-deprecated MCP Server that interactes with Azure AI Foundry (experimental).
 
 ---
-
 ## Available Tools
 
 ### Capabilities: Models
